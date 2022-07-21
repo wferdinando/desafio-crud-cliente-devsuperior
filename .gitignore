@@ -53,3 +53,4 @@ build/
 
 # Ignore code-workspaces
 *.code-workspace
+*/.settings
